@@ -1,12 +1,12 @@
 # CTF1
 * Examination Questions are in problem_description directory
 * Solution and Implementation are in solution_report directory
-		* report.pdf
+	* report.pdf
 
-4. »İ­n¨Ï¥Îipynb¶}±ÒÀÉ®×¡A¦b²Ä3ÃD~²Ä6ÃD³¡¤À»İ­n¤H¤u¤¶¤J¡A±N¤W¤@ÃDªº¦^¶Ç­È¶K¤J½u¤W¤u¨ã¦A¦^¶Ç
-©Î¬O³z¹L¦×²´Æ[¹î¦X²zªº¤å¦r¤~¦æ¦^¶Ç
+4. éœ€è¦ä½¿ç”¨ipynbé–‹å•Ÿæª”æ¡ˆï¼Œåœ¨ç¬¬3é¡Œ~ç¬¬6é¡Œéƒ¨åˆ†éœ€è¦äººå·¥ä»‹å…¥ï¼Œå°‡ä¸Šä¸€é¡Œçš„å›å‚³å€¼è²¼å…¥ç·šä¸Šå·¥å…·å†å›å‚³
+æˆ–æ˜¯é€éè‚‰çœ¼è§€å¯Ÿåˆç†çš„æ–‡å­—æ‰è¡Œå›å‚³
 
-5. python2 ¨Ì¾Úreport«ü¥O·Ó¥´
+5. python2 ä¾æ“šreportæŒ‡ä»¤ç…§æ‰“
 
 6~9. python3
 
