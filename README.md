@@ -1,2 +1,7 @@
 # Security Learning
-Cryptography and Network security / CTF
+* Cryptography
+* Network security
+* Malware Analysis
+* Machine Learning and Deep Learning in Security
+* Thesis Reading & Reflection
+* CTF
