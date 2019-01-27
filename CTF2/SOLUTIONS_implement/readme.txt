@@ -1,0 +1,1 @@
+code7: 從connect cell往下做，算出來後需要將0x字元砍掉再回傳
